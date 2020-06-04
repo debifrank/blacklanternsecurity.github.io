@@ -142,3 +142,20 @@ tjp:
 #  accent_image:
 #    background:      '#202020'
 #    overlay:         false
+
+# Another author (optional)
+cdm:
+  name:              Cody Martin
+  email:             cody.martin@blacklanternsecurity.com
+  about:             |
+    Cody Martin is an operator at Black Lantern Security.
+
+#    Open `_data/authors.yml` to edit this text.
+#  picture:           https://placehold.it/128x128
+  twitter:           debifrank14
+  github:            debifrank
+#  accent_color:      '#268bd2'
+#  accent_image:
+#    background:      '#202020'
+#    overlay:         false
+
